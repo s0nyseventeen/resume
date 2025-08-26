@@ -21,7 +21,7 @@ databases. Developed simple user interfaces with React. Configured and maintaine
 
 ## Technical Highlights
 
-- Python, FastAPI, PyTorch
+- Python, FastAPI, PyTorch, React
 - PostgreSQL, MongoDB
 - Jenkins, Docker, Kubernetes, AWS
 - English (Upper-Intermediate)
